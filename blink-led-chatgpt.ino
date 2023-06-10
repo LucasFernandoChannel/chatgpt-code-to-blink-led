@@ -1,3 +1,6 @@
+// Created by ChatGPT and Lucas Fernando.
+// Feel free to use and modify this code the way you want and need.
+
 // Pin connected to the LED
 const int ledPin = 3;
 
